@@ -24,5 +24,14 @@
     "dev": "nodemon bin/www"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToothlessHawkins/auth0-sample.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ToothlessHawkins/auth0-sample/issues"
+  },
+  "homepage": "https://github.com/ToothlessHawkins/auth0-sample#readme"
 }
